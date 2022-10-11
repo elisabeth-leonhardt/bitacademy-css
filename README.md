@@ -1,4 +1,4 @@
-# Bienvenidos a la Bitacademy!
+# ¡Bienvenidos a la Bitacademy!
 ## Este repositorio tiene los materiales necesarios relacionados a las clases de CSS
 
 Van a encontrar 2 carpetas:
