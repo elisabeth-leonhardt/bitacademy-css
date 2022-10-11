@@ -1,0 +1,42 @@
+:root {
+    --main-bg: #292929;
+    --main-text-color: #efefef;
+    --main-green: #67f293;
+}
+
+html {
+    background-color: var(--main-bg);
+    color: var(--main-text-color);
+    font-family: Plain,sans-serif
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+    max-width: 1200px;
+    margin: auto;
+}
+
+header h1 {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+header h1 img {
+    display: inline
+}
+
+.item {
+    border: 3px solid var(--main-green);
+    font-size: 2rem;
+}
+
+.container {
+    border: 3px solid yellow;
+    display: flex;
+}
